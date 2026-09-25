@@ -137,3 +137,7 @@ That file currently defines the fixture, player, staff, and goal types plus the 
 - The club name and branding are still placeholder/demo branding unless you choose to rebrand the project.
 - Some social and commerce areas are still content placeholders rather than production integrations.
 - AI features depend on `GOOGLE_API_KEY`.
+
+## Repository relocated
+
+This repository moved from the CryptoSI-DAO org to **Afroball-Connect** on 2026-09-25. Pushes to `main` auto-deploy to production via the Vercel GitHub App.
